@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkAndLinqAssignment", "EntityFrameworkAndLinqAssignment\EntityFrameworkAndLinqAssignment.csproj", "{AAEA78AD-7EFB-4766-90E8-DB9375B7289B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEA78AD-7EFB-4766-90E8-DB9375B7289B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEA78AD-7EFB-4766-90E8-DB9375B7289B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEA78AD-7EFB-4766-90E8-DB9375B7289B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEA78AD-7EFB-4766-90E8-DB9375B7289B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54223516-13AD-4278-9E55-817CC074D1A8}
+	EndGlobalSection
+EndGlobal
